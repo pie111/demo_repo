@@ -1,2 +1,4 @@
-# demo_repo
-Demo repo for studying git
+# demo
+
+## Demo repo for studying git
+
